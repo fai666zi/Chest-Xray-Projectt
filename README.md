@@ -23,10 +23,6 @@ Chest_XRay_Classification/
 
 ├─ confusion_matrix.png # Confusion matrix image
 
-├─ sample_predictions.png # Sample X-ray predictions
-
-├─ sample_images/ # Optional folder with few images
-
 ├─ requirements.txt # Python dependencies
 
 └─ README.md # Project description
