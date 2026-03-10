@@ -44,7 +44,8 @@ git clone https://github.com/yourusername/Chest_XRay_Classification.git
 cd Chest_XRay_Classification
  ```
 
-2. Install dependencies:/
+2. Install dependencies:
+   
 pip install -r requirements.txt
 
 ## Usage
