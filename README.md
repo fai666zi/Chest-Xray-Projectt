@@ -14,13 +14,21 @@ It includes **data preprocessing, augmentation, model training, evaluation, and 
 ## Repository Structure
 Chest_XRay_Classification/
 │
+
 ├─ Chest_XRay_Classification.ipynb # Notebook with code + outputs
+
 ├─ best_model.pth # Saved model (or link if too big)
+
 ├─ test_metrics.csv # Metrics table
+
 ├─ confusion_matrix.png # Confusion matrix image
+
 ├─ sample_predictions.png # Sample X-ray predictions
+
 ├─ sample_images/ # Optional folder with few images
+
 ├─ requirements.txt # Python dependencies
+
 └─ README.md # Project description
 
 
