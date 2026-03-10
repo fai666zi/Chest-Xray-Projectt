@@ -11,8 +11,6 @@ It includes **data preprocessing, augmentation, model training, evaluation, and 
 ---
 
 ## Repository Structure
-
-
 Chest_XRay_Classification/
 │
 ├─ Chest_XRay_Classification.ipynb # Notebook with code + outputs
@@ -22,8 +20,7 @@ Chest_XRay_Classification/
 ├─ sample_predictions.png # Sample X-ray predictions
 ├─ sample_images/ # Optional folder with few images
 ├─ requirements.txt # Python dependencies
-└─ README.md # Project description```
-
+└─ README.md # Project description
 
 
 
@@ -36,12 +33,10 @@ Chest_XRay_Classification/
 ```bash
 git clone https://github.com/yourusername/Chest_XRay_Classification.git
 cd Chest_XRay_Classification
-
-```
+ ```
 
 2. Install dependencies:
 pip install -r requirements.txt
-
 
 ## Usage
 
